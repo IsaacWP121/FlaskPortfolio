@@ -1,6 +1,8 @@
 # FlaskPortfolio
 A small flask website
 
+#HAS NOT BEEN STARTED#
+
 Features to add-
   Pages
     
